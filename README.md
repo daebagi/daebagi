@@ -27,7 +27,8 @@
   <br/>
   ## 📫 연락처
   ### <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=Gmail&logoColor=black"/> daeburm0115@gmail.com
- 
+  ### 블로그 : https://meobagi.tistory.com/ <br/>
+  블로그는 아직 공부중이라 공부과정을 올리고 있어요.
 </div>
 
 <!--
