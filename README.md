@@ -8,27 +8,29 @@
   <!--Body-->
   
   ## 👀 자기소개
-  #### :raising_hand: 저는 개발자가 되기 위해 공부중인 박대범이라고 합니다.<br/>
-  #### :fire: 누구나가 인정할 수 있는 개발자가 되는게 목표에요<br/>
-  #### :mortar_board: 열심히 공부 중...
+  #### :raising_hand: 저는 더 나은 개발자가 되기 위해 계속 공부중인 박대범이라고 합니다.<br/>
+  #### :fire: 맡은 일을 깔끔하게 해낼 수 있는 개발자가 되는게 목표입니다.<br/>
+  #### :mortar_board: 부트캠프 과정을 마치고 더욱 정진하기 위해 공부중입니다.
   <br/>
   <br/>
   
   ## 🧱 기술 스택
   ### Language
-  배워가는 중....
+  - Python 
   
   ### Framework
-  이것도 공부 중...
+  - Django, Django REST Framework
+
+  ### Database
+  - PostgreSQL
   
   ### ETC
-  점차 채워 나가게 되겠죠?
+  - Javascript, Flask, FastAPI 등 도 공부했었지만 활용해서 제대로 된 프로젝트를 구현해 본적이 없어 다시 공부 중입니다.
   <br/>
   <br/>
   ## 📫 연락처
   ### <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=Gmail&logoColor=black"/> daeburm0115@gmail.com
-  ### 블로그 : https://meobagi.tistory.com/ <br/>
-  블로그는 아직 공부중이라 공부과정을 올리고 있어요.
+  
 </div>
 
 <!--
