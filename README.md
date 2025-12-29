@@ -25,7 +25,7 @@
   - PostgreSQL
   
   ### ETC
-  - Javascript, Flask, FastAPI 등 도 공부했었지만 활용해서 제대로 된 프로젝트를 구현해 본적이 없어 다시 공부 중입니다.
+  - Javascript, Flask, FastAPI 등 도 공부했었지만 활용해서 제대로 구현해 본적이 없어 다시 공부 중입니다.
   <br/>
   <br/>
   ## 📫 연락처
