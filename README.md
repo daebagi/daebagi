@@ -29,7 +29,7 @@
   <br/>
   <br/>
   ## 📫 연락처
-  ### <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=Gmail&logoColor=black"/> daeburm0115@gmail.com
+  ### daeburm0115@gmail.com
   
 </div>
 
